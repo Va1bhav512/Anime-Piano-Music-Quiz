@@ -1,0 +1,50 @@
+{
+    "question1": {
+        "question": "What anime is this song from?",
+        "song": "Sounds/Oregairu.wav",
+        "options": ["Oregairu", "Your Lie In April", "86", "A Silent Voice"],
+        "answer": "Oregairu"
+    },
+    "question2": {
+        "question": "What anime is this song from?",
+        "song": "Sounds/A Silent Voice.wav",
+        "options": ["Jujutsu Kaisen","Oregairu","A Silent Voice", "Your Lie In April"],
+        "answer": "A Silent Voice"
+    },
+    "question3": {
+        "question": "What anime is this song from?",
+        "song": "Sounds/Eighty Six.wav",
+        "options": ["Jujutsu Kaisen", "86","Death Note","A Silent Voice"],
+        "answer": "86"
+    },
+    "question4": {
+        "question": "What anime is this song from?",
+        "song": "Sounds/Your Lie In April.wav",
+        "options": ["Naruto Shippuden", "Death Note","Your Lie In April","A Silent Voice"],
+        "answer": "Your Lie In April"
+    },
+    "question5": {
+        "question":"What anime is this song from?",
+        "song": "Sounds/Jujutsu Kaisen.wav",
+        "options": ["86", "Your Lie In April", "Naruto Shippuden", "Jujutsu Kaisen"],
+        "answer": "Jujutsu Kaisen"
+    },
+    "question6": {
+        "question":"What anime is this song from?",
+        "song": "Sounds/Death Note.wav",
+        "options": ["Naruto Shippuden", "Death Note", "Jujutsu Kaisen", "86"],
+        "answer": "Death Note"
+    },
+    "question7": {
+        "question":"What anime is this song from?",
+        "song": "Sounds/Naruto Shippuden.wav",
+        "options": ["A Silent Voice","Naruto Shippuden", "Jujutsu Kaisen", "Death Note"],
+        "answer": "Naruto Shippuden"
+    },
+    "question8": {
+        "question":"What anime is this song from?",
+        "song":"Sounds/Toradora.wav",
+        "options":["A Silent Voice","Your Lie In April","86","Toradora"],
+        "answer":"Toradora"
+    }
+}
